@@ -946,7 +946,7 @@ Madame de la Chanterie's bedroom, which also opened into the salon. This
 room had no other ornament than a tall clock. The furniture consisted of
 six chairs with oval backs covered with worsted-work, done probably
 by Madame de la Chanterie's own hand, two buffets and a table, all
-of Mahogany, on which Manon did not lay a cloth for breakfast. The
+of mahogany, on which Manon did not lay a cloth for breakfast. The
 breakfast, of monastic frugality, was composed of a small turbot with
 a white sauce, potatoes, a salad, and four dishes of fruit,--peaches,
 grapes, strawberries, and fresh almonds; also, for relishes, honey
@@ -1152,7 +1152,7 @@ speak here of your misfortunes; they are slight compared to the
 catastrophes by which the lives of those you are now among were
 blasted."
 
-While speaking thus, Madame de la Chanterie drew her needle and let her
+While speaking thus, Madame de la Chanterie drew her needle and set her
 stitches with unbroken regularity; but here she paused, raised her
 head, and looked at Godefroid. She saw him charmed by the penetrating
 sweetness of her voice, which possessed, let us say it here, an
@@ -2187,7 +2187,7 @@ for my hundred louis in gold, I might have bought myself fifteen hundred
 francs of income. Every morning, as I took my coffee and read the paper,
 I said to myself: 'That cursed Mongenod! if it were not for him I
 should have three thousand francs a year to live on.' Mongenod became
-by _bete-noire_; I inveighed against him even as I walked the streets.
+my _bete-noire_; I inveighed against him even as I walked the streets.
 'Bordin is there,' I thought to myself; 'Bordin will put the screws on,
 and a good thing, too.' My feelings turned to hatred, and my hatred to
 imprecations; I cursed the man, and I believed he had every vice. 'Ah!
@@ -4618,7 +4618,7 @@ The walls, of cracked and broken plaster, presented to the eye more
 inscriptions than the Academy of Belles-lettres has yet composed. The
 portress stopped on the first landing.
 
-"Here, monsieur, are two rooms adjoining each other and every clean,
+"Here, monsieur, are two rooms adjoining each other and very clean,
 which open opposite to those of Monsieur Bernard; that's the old
 gentleman I told you of,--quite a proper person. He is decorated; but
 it seems he has had misfortunes, for he never wears his ribbon. They
@@ -5076,7 +5076,7 @@ Halpersohn."
 once," cried the old man. "I will sell the pear I have kept for a
 thirsty day."
 
-"You shall keep the pair--"
+"You shall keep the pear--"
 
 "Oh, youth! youth!" exclaimed Monsieur Bernard, shaking his head.
 "Adieu, monsieur; or rather, au revoir. This is the hour for the
